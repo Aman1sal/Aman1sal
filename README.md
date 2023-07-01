@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋 I am <H3>Aman Bansal <H3>.<br>As a dedicated product designer and developer, my passion lies in creating memorable user experiences through crafting intuitive interfaces and seamless interactions.
+## Hi 👋 I am Aman Bansal.
+  
+<br>As a dedicated product designer and developer, my passion lies in creating memorable user experiences through crafting intuitive interfaces and seamless interactions.
 
 
 ## 🌐 Socials:
